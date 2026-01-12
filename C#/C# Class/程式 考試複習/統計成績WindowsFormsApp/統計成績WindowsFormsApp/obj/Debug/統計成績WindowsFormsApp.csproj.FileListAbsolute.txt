@@ -1,0 +1,9 @@
+D:\程式 考試複習\統計成績WindowsFormsApp\統計成績WindowsFormsApp\bin\Debug\統計成績WindowsFormsApp.exe.config
+D:\程式 考試複習\統計成績WindowsFormsApp\統計成績WindowsFormsApp\bin\Debug\統計成績WindowsFormsApp.exe
+D:\程式 考試複習\統計成績WindowsFormsApp\統計成績WindowsFormsApp\bin\Debug\統計成績WindowsFormsApp.pdb
+D:\程式 考試複習\統計成績WindowsFormsApp\統計成績WindowsFormsApp\obj\Debug\統計成績WindowsFormsApp.csprojAssemblyReference.cache
+D:\程式 考試複習\統計成績WindowsFormsApp\統計成績WindowsFormsApp\obj\Debug\統計成績WindowsFormsApp.Form1.resources
+D:\程式 考試複習\統計成績WindowsFormsApp\統計成績WindowsFormsApp\obj\Debug\統計成績WindowsFormsApp.Properties.Resources.resources
+D:\程式 考試複習\統計成績WindowsFormsApp\統計成績WindowsFormsApp\obj\Debug\統計成績WindowsFormsApp.csproj.GenerateResource.cache
+D:\程式 考試複習\統計成績WindowsFormsApp\統計成績WindowsFormsApp\obj\Debug\統計成績WindowsFormsApp.exe
+D:\程式 考試複習\統計成績WindowsFormsApp\統計成績WindowsFormsApp\obj\Debug\統計成績WindowsFormsApp.pdb

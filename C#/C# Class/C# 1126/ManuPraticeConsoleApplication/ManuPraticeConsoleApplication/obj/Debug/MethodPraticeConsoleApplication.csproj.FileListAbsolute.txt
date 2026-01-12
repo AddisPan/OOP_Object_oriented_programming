@@ -1,0 +1,12 @@
+C:\Users\m306\Desktop\C# 1126\ManuPraticeConsoleApplication\ManuPraticeConsoleApplication\bin\Debug\ManuPraticeConsoleApplication.exe.config
+C:\Users\m306\Desktop\C# 1126\ManuPraticeConsoleApplication\ManuPraticeConsoleApplication\bin\Debug\ManuPraticeConsoleApplication.exe
+C:\Users\m306\Desktop\C# 1126\ManuPraticeConsoleApplication\ManuPraticeConsoleApplication\bin\Debug\ManuPraticeConsoleApplication.pdb
+C:\Users\m306\Desktop\C# 1126\ManuPraticeConsoleApplication\ManuPraticeConsoleApplication\obj\Debug\MethodPraticeConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\m306\Desktop\C# 1126\ManuPraticeConsoleApplication\ManuPraticeConsoleApplication\obj\Debug\ManuPraticeConsoleApplication.exe
+C:\Users\m306\Desktop\C# 1126\ManuPraticeConsoleApplication\ManuPraticeConsoleApplication\obj\Debug\ManuPraticeConsoleApplication.pdb
+E:\C# 1126\ManuPraticeConsoleApplication\ManuPraticeConsoleApplication\bin\Debug\ManuPraticeConsoleApplication.exe.config
+E:\C# 1126\ManuPraticeConsoleApplication\ManuPraticeConsoleApplication\bin\Debug\ManuPraticeConsoleApplication.exe
+E:\C# 1126\ManuPraticeConsoleApplication\ManuPraticeConsoleApplication\bin\Debug\ManuPraticeConsoleApplication.pdb
+E:\C# 1126\ManuPraticeConsoleApplication\ManuPraticeConsoleApplication\obj\Debug\MethodPraticeConsoleApplication.csprojAssemblyReference.cache
+E:\C# 1126\ManuPraticeConsoleApplication\ManuPraticeConsoleApplication\obj\Debug\ManuPraticeConsoleApplication.exe
+E:\C# 1126\ManuPraticeConsoleApplication\ManuPraticeConsoleApplication\obj\Debug\ManuPraticeConsoleApplication.pdb

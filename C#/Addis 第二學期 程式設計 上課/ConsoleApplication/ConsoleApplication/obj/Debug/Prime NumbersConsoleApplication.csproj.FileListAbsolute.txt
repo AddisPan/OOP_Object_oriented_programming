@@ -1,0 +1,6 @@
+C:\Users\m306\Desktop\C# 1119\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\m306\Desktop\C# 1119\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\m306\Desktop\C# 1119\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\m306\Desktop\C# 1119\ConsoleApplication\ConsoleApplication\obj\Debug\Prime NumbersConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\m306\Desktop\C# 1119\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\m306\Desktop\C# 1119\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

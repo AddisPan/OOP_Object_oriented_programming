@@ -1,0 +1,9 @@
+D:\Addis 第二學期 程式設計 上課\2020 0317 Extra\WSCWindowsFormsApp1\WSCWindowsFormsApp1\obj\Debug\WSCWindowsFormsApp1.csprojAssemblyReference.cache
+D:\Addis 第二學期 程式設計 上課\2020 0317 Extra\WSCWindowsFormsApp1\WSCWindowsFormsApp1\obj\Debug\WSCWindowsFormsApp1.Form1.resources
+D:\Addis 第二學期 程式設計 上課\2020 0317 Extra\WSCWindowsFormsApp1\WSCWindowsFormsApp1\obj\Debug\WSCWindowsFormsApp1.Properties.Resources.resources
+D:\Addis 第二學期 程式設計 上課\2020 0317 Extra\WSCWindowsFormsApp1\WSCWindowsFormsApp1\obj\Debug\WSCWindowsFormsApp1.csproj.GenerateResource.cache
+D:\Addis 第二學期 程式設計 上課\2020 0317 Extra\WSCWindowsFormsApp1\WSCWindowsFormsApp1\bin\Debug\WSCWindowsFormsApp1.exe.config
+D:\Addis 第二學期 程式設計 上課\2020 0317 Extra\WSCWindowsFormsApp1\WSCWindowsFormsApp1\bin\Debug\WSCWindowsFormsApp1.exe
+D:\Addis 第二學期 程式設計 上課\2020 0317 Extra\WSCWindowsFormsApp1\WSCWindowsFormsApp1\bin\Debug\WSCWindowsFormsApp1.pdb
+D:\Addis 第二學期 程式設計 上課\2020 0317 Extra\WSCWindowsFormsApp1\WSCWindowsFormsApp1\obj\Debug\WSCWindowsFormsApp1.exe
+D:\Addis 第二學期 程式設計 上課\2020 0317 Extra\WSCWindowsFormsApp1\WSCWindowsFormsApp1\obj\Debug\WSCWindowsFormsApp1.pdb

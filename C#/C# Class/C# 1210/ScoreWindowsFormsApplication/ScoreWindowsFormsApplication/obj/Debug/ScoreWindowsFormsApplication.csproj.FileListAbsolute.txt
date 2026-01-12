@@ -1,0 +1,9 @@
+C:\Users\m306\Desktop\C# 1210\ScoreWindowsFormsApplication\ScoreWindowsFormsApplication\bin\Debug\ScoreWindowsFormsApplication.exe.config
+C:\Users\m306\Desktop\C# 1210\ScoreWindowsFormsApplication\ScoreWindowsFormsApplication\bin\Debug\ScoreWindowsFormsApplication.exe
+C:\Users\m306\Desktop\C# 1210\ScoreWindowsFormsApplication\ScoreWindowsFormsApplication\bin\Debug\ScoreWindowsFormsApplication.pdb
+C:\Users\m306\Desktop\C# 1210\ScoreWindowsFormsApplication\ScoreWindowsFormsApplication\obj\Debug\ScoreWindowsFormsApplication.csprojResolveAssemblyReference.cache
+C:\Users\m306\Desktop\C# 1210\ScoreWindowsFormsApplication\ScoreWindowsFormsApplication\obj\Debug\ScoreWindowsFormsApplication.Form1.resources
+C:\Users\m306\Desktop\C# 1210\ScoreWindowsFormsApplication\ScoreWindowsFormsApplication\obj\Debug\ScoreWindowsFormsApplication.Properties.Resources.resources
+C:\Users\m306\Desktop\C# 1210\ScoreWindowsFormsApplication\ScoreWindowsFormsApplication\obj\Debug\ScoreWindowsFormsApplication.csproj.GenerateResource.Cache
+C:\Users\m306\Desktop\C# 1210\ScoreWindowsFormsApplication\ScoreWindowsFormsApplication\obj\Debug\ScoreWindowsFormsApplication.exe
+C:\Users\m306\Desktop\C# 1210\ScoreWindowsFormsApplication\ScoreWindowsFormsApplication\obj\Debug\ScoreWindowsFormsApplication.pdb

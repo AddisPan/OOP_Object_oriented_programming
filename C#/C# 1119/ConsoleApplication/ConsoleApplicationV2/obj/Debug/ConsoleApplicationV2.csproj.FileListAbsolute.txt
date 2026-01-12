@@ -1,0 +1,5 @@
+C:\Users\m306\Desktop\C# 1119\ConsoleApplication\ConsoleApplicationV2\bin\Debug\ConsoleApplicationV2.exe.config
+C:\Users\m306\Desktop\C# 1119\ConsoleApplication\ConsoleApplicationV2\bin\Debug\ConsoleApplicationV2.exe
+C:\Users\m306\Desktop\C# 1119\ConsoleApplication\ConsoleApplicationV2\bin\Debug\ConsoleApplicationV2.pdb
+C:\Users\m306\Desktop\C# 1119\ConsoleApplication\ConsoleApplicationV2\obj\Debug\ConsoleApplicationV2.exe
+C:\Users\m306\Desktop\C# 1119\ConsoleApplication\ConsoleApplicationV2\obj\Debug\ConsoleApplicationV2.pdb

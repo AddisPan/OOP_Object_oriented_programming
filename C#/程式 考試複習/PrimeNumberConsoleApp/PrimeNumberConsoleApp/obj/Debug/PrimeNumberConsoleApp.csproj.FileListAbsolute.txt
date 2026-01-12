@@ -1,0 +1,6 @@
+D:\程式 考試複習\PrimeNumberConsoleApp\PrimeNumberConsoleApp\obj\Debug\PrimeNumberConsoleApp.csprojAssemblyReference.cache
+D:\程式 考試複習\PrimeNumberConsoleApp\PrimeNumberConsoleApp\bin\Debug\PrimeNumberConsoleApp.exe.config
+D:\程式 考試複習\PrimeNumberConsoleApp\PrimeNumberConsoleApp\bin\Debug\PrimeNumberConsoleApp.exe
+D:\程式 考試複習\PrimeNumberConsoleApp\PrimeNumberConsoleApp\bin\Debug\PrimeNumberConsoleApp.pdb
+D:\程式 考試複習\PrimeNumberConsoleApp\PrimeNumberConsoleApp\obj\Debug\PrimeNumberConsoleApp.exe
+D:\程式 考試複習\PrimeNumberConsoleApp\PrimeNumberConsoleApp\obj\Debug\PrimeNumberConsoleApp.pdb

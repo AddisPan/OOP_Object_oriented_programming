@@ -1,0 +1,6 @@
+D:\addis程式設計\100萬質數ConsoleApp1\bin\Debug\100萬質數ConsoleApp1.exe.config
+D:\addis程式設計\100萬質數ConsoleApp1\bin\Debug\100萬質數ConsoleApp1.exe
+D:\addis程式設計\100萬質數ConsoleApp1\bin\Debug\100萬質數ConsoleApp1.pdb
+D:\addis程式設計\100萬質數ConsoleApp1\obj\Debug\100萬質數ConsoleApp1.csprojAssemblyReference.cache
+D:\addis程式設計\100萬質數ConsoleApp1\obj\Debug\100萬質數ConsoleApp1.exe
+D:\addis程式設計\100萬質數ConsoleApp1\obj\Debug\100萬質數ConsoleApp1.pdb

@@ -1,0 +1,17 @@
+C:\Users\m306\Desktop\C# 1119\ConsoleApplication\ConsoleApplicationV2\bin\Debug\ConsoleApplicationV2.exe.config
+C:\Users\m306\Desktop\C# 1119\ConsoleApplication\ConsoleApplicationV2\bin\Debug\ConsoleApplicationV2.exe
+C:\Users\m306\Desktop\C# 1119\ConsoleApplication\ConsoleApplicationV2\bin\Debug\ConsoleApplicationV2.pdb
+C:\Users\m306\Desktop\C# 1119\ConsoleApplication\ConsoleApplicationV2\obj\Debug\ConsoleApplicationV2.exe
+C:\Users\m306\Desktop\C# 1119\ConsoleApplication\ConsoleApplicationV2\obj\Debug\ConsoleApplicationV2.pdb
+C:\Users\Addis\Desktop\C# 1119\ConsoleApplication\ConsoleApplicationV2\bin\Debug\ConsoleApplicationV2.exe.config
+C:\Users\Addis\Desktop\C# 1119\ConsoleApplication\ConsoleApplicationV2\bin\Debug\ConsoleApplicationV2.exe
+C:\Users\Addis\Desktop\C# 1119\ConsoleApplication\ConsoleApplicationV2\bin\Debug\ConsoleApplicationV2.pdb
+C:\Users\Addis\Desktop\C# 1119\ConsoleApplication\ConsoleApplicationV2\obj\Debug\ConsoleApplicationV2.csprojAssemblyReference.cache
+C:\Users\Addis\Desktop\C# 1119\ConsoleApplication\ConsoleApplicationV2\obj\Debug\ConsoleApplicationV2.exe
+C:\Users\Addis\Desktop\C# 1119\ConsoleApplication\ConsoleApplicationV2\obj\Debug\ConsoleApplicationV2.pdb
+D:\C# 1119\ConsoleApplication\ConsoleApplicationV2\bin\Debug\ConsoleApplicationV2.exe.config
+D:\C# 1119\ConsoleApplication\ConsoleApplicationV2\bin\Debug\ConsoleApplicationV2.exe
+D:\C# 1119\ConsoleApplication\ConsoleApplicationV2\bin\Debug\ConsoleApplicationV2.pdb
+D:\C# 1119\ConsoleApplication\ConsoleApplicationV2\obj\Debug\ConsoleApplicationV2.csprojAssemblyReference.cache
+D:\C# 1119\ConsoleApplication\ConsoleApplicationV2\obj\Debug\ConsoleApplicationV2.exe
+D:\C# 1119\ConsoleApplication\ConsoleApplicationV2\obj\Debug\ConsoleApplicationV2.pdb

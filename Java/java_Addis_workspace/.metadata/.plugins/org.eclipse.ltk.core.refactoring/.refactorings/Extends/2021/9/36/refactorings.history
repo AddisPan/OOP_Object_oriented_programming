@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Extends/src/Hidden/Hide.jaba&apos; to &apos;Hide.java&apos;" description="Rename resource &apos;Hide.jaba&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Hidden/Hide.jaba" name="Hide.java" stamp="1630464650283" updateReferences="true"/>
+</session>

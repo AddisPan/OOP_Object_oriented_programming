@@ -1,0 +1,6 @@
+D:\Addis 第二學期 程式設計 功課\WordConsoleApp\WordConsoleApp\bin\Debug\WordConsoleApp.exe.config
+D:\Addis 第二學期 程式設計 功課\WordConsoleApp\WordConsoleApp\bin\Debug\WordConsoleApp.exe
+D:\Addis 第二學期 程式設計 功課\WordConsoleApp\WordConsoleApp\bin\Debug\WordConsoleApp.pdb
+D:\Addis 第二學期 程式設計 功課\WordConsoleApp\WordConsoleApp\obj\Debug\WordConsoleApp.csprojAssemblyReference.cache
+D:\Addis 第二學期 程式設計 功課\WordConsoleApp\WordConsoleApp\obj\Debug\WordConsoleApp.exe
+D:\Addis 第二學期 程式設計 功課\WordConsoleApp\WordConsoleApp\obj\Debug\WordConsoleApp.pdb

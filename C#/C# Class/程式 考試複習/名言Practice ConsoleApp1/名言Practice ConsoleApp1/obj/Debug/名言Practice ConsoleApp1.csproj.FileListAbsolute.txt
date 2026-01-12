@@ -1,0 +1,6 @@
+D:\程式 考試複習\名言Practice ConsoleApp1\名言Practice ConsoleApp1\bin\Debug\名言Practice ConsoleApp1.exe.config
+D:\程式 考試複習\名言Practice ConsoleApp1\名言Practice ConsoleApp1\bin\Debug\名言Practice ConsoleApp1.exe
+D:\程式 考試複習\名言Practice ConsoleApp1\名言Practice ConsoleApp1\bin\Debug\名言Practice ConsoleApp1.pdb
+D:\程式 考試複習\名言Practice ConsoleApp1\名言Practice ConsoleApp1\obj\Debug\名言Practice ConsoleApp1.csprojAssemblyReference.cache
+D:\程式 考試複習\名言Practice ConsoleApp1\名言Practice ConsoleApp1\obj\Debug\名言Practice ConsoleApp1.exe
+D:\程式 考試複習\名言Practice ConsoleApp1\名言Practice ConsoleApp1\obj\Debug\名言Practice ConsoleApp1.pdb

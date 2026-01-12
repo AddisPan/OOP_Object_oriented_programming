@@ -1,0 +1,9 @@
+D:\addis程式設計\ListWindowsFormsApp1\bin\Debug\ListWindowsFormsApp1.exe.config
+D:\addis程式設計\ListWindowsFormsApp1\bin\Debug\ListWindowsFormsApp1.exe
+D:\addis程式設計\ListWindowsFormsApp1\bin\Debug\ListWindowsFormsApp1.pdb
+D:\addis程式設計\ListWindowsFormsApp1\obj\Debug\ListWindowsFormsApp1.csprojAssemblyReference.cache
+D:\addis程式設計\ListWindowsFormsApp1\obj\Debug\ListWindowsFormsApp1.Form1.resources
+D:\addis程式設計\ListWindowsFormsApp1\obj\Debug\ListWindowsFormsApp1.Properties.Resources.resources
+D:\addis程式設計\ListWindowsFormsApp1\obj\Debug\ListWindowsFormsApp1.csproj.GenerateResource.cache
+D:\addis程式設計\ListWindowsFormsApp1\obj\Debug\ListWindowsFormsApp1.exe
+D:\addis程式設計\ListWindowsFormsApp1\obj\Debug\ListWindowsFormsApp1.pdb

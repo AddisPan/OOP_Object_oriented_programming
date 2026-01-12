@@ -1,0 +1,12 @@
+C:\Users\A108222040\Desktop\0414\GamesWindowsFormsApp\GamesWindowsFormsApp\bin\Debug\GamesWindowsFormsApp.exe.config
+C:\Users\A108222040\Desktop\0414\GamesWindowsFormsApp\GamesWindowsFormsApp\bin\Debug\GamesWindowsFormsApp.exe
+C:\Users\A108222040\Desktop\0414\GamesWindowsFormsApp\GamesWindowsFormsApp\bin\Debug\GamesWindowsFormsApp.pdb
+C:\Users\A108222040\Desktop\0414\GamesWindowsFormsApp\GamesWindowsFormsApp\obj\Debug\GamesWindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\A108222040\Desktop\0414\GamesWindowsFormsApp\GamesWindowsFormsApp\obj\Debug\GamesWindowsFormsApp.Form1.resources
+C:\Users\A108222040\Desktop\0414\GamesWindowsFormsApp\GamesWindowsFormsApp\obj\Debug\GamesWindowsFormsApp.PianoForm.resources
+C:\Users\A108222040\Desktop\0414\GamesWindowsFormsApp\GamesWindowsFormsApp\obj\Debug\GamesWindowsFormsApp.Properties.Resources.resources
+C:\Users\A108222040\Desktop\0414\GamesWindowsFormsApp\GamesWindowsFormsApp\obj\Debug\GamesWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\A108222040\Desktop\0414\GamesWindowsFormsApp\GamesWindowsFormsApp\obj\Debug\GamesWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\A108222040\Desktop\0414\GamesWindowsFormsApp\GamesWindowsFormsApp\obj\Debug\GamesWindowsFormsApp.exe
+C:\Users\A108222040\Desktop\0414\GamesWindowsFormsApp\GamesWindowsFormsApp\obj\Debug\GamesWindowsFormsApp.pdb
+C:\Users\A108222040\Desktop\0414\GamesWindowsFormsApp\GamesWindowsFormsApp\obj\Debug\GamesWindowsFormsApp.CalculatorForm.resources

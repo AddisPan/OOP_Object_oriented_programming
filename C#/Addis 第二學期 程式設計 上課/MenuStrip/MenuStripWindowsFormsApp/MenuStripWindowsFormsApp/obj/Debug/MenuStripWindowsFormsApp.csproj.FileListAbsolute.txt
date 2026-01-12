@@ -1,0 +1,13 @@
+C:\Users\A108222040\Desktop\MenuStrip\MenuStripWindowsFormsApp\MenuStripWindowsFormsApp\bin\Debug\MenuStripWindowsFormsApp.exe.config
+C:\Users\A108222040\Desktop\MenuStrip\MenuStripWindowsFormsApp\MenuStripWindowsFormsApp\bin\Debug\MenuStripWindowsFormsApp.exe
+C:\Users\A108222040\Desktop\MenuStrip\MenuStripWindowsFormsApp\MenuStripWindowsFormsApp\bin\Debug\MenuStripWindowsFormsApp.pdb
+C:\Users\A108222040\Desktop\MenuStrip\MenuStripWindowsFormsApp\MenuStripWindowsFormsApp\obj\Debug\MenuStripWindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\A108222040\Desktop\MenuStrip\MenuStripWindowsFormsApp\MenuStripWindowsFormsApp\obj\Debug\MenuStripWindowsFormsApp.Form1.resources
+C:\Users\A108222040\Desktop\MenuStrip\MenuStripWindowsFormsApp\MenuStripWindowsFormsApp\obj\Debug\MenuStripWindowsFormsApp.Properties.Resources.resources
+C:\Users\A108222040\Desktop\MenuStrip\MenuStripWindowsFormsApp\MenuStripWindowsFormsApp\obj\Debug\MenuStripWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\A108222040\Desktop\MenuStrip\MenuStripWindowsFormsApp\MenuStripWindowsFormsApp\obj\Debug\MenuStripWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\A108222040\Desktop\MenuStrip\MenuStripWindowsFormsApp\MenuStripWindowsFormsApp\obj\Debug\MenuStripWindowsFormsApp.exe
+C:\Users\A108222040\Desktop\MenuStrip\MenuStripWindowsFormsApp\MenuStripWindowsFormsApp\obj\Debug\MenuStripWindowsFormsApp.pdb
+C:\Users\A108222040\Desktop\MenuStrip\MenuStripWindowsFormsApp\MenuStripWindowsFormsApp\obj\Debug\MenuStripWindowsFormsApp.studentInformationForm.resources
+C:\Users\A108222040\Desktop\MenuStrip\MenuStripWindowsFormsApp\MenuStripWindowsFormsApp\obj\Debug\MenuStripWindowsFormsApp.backeryForm.resources
+C:\Users\A108222040\Desktop\MenuStrip\MenuStripWindowsFormsApp\MenuStripWindowsFormsApp\obj\Debug\MenuStripWindowsFormsApp.funGameForm.resources

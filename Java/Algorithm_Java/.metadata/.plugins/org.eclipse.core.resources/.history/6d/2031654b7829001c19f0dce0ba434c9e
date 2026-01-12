@@ -1,0 +1,67 @@
+import java.util.Scanner;
+
+public class LockerDoor {
+	public static void main(String[] args) {
+		int n, x, i = 1, j = 1; // 0->close 1-> open
+		boolean state = false;
+		Scanner input = new Scanner(System.in);
+		System.out.println("Please number¡G");
+		n = input.nextInt();
+
+		for (x = 0; x <= n; x++) {
+			for (i = 1; i <= n; i++) {
+				System.out.print(i + "\t");
+			}
+			System.out.println();
+			if (x == 0) {
+				for (j = 1; j <= n; j++) {
+					state = false;
+					System.out.print("0" + "\t");
+				}
+			} else if (x == 1) {
+				for (j = 1; j <= n; j++) {
+					state = true;
+					System.out.print("1" + "\t");
+				}
+			} else {
+				if (j == 1) {
+					if (state == false) {
+						state = true;
+						System.out.print("1" + "\t");
+					} else {
+						state = false;
+						System.out.print("0" + "\t");
+					}
+				} else {
+					for (int y = 1; y <= n; y++) {
+						if (y == 1) {
+							if (state == true) {
+								state = false;
+								System.out.print("0" + "\t");
+							} else {
+								state = true;
+								System.out.print("1" + "\t");
+							}
+						} else if ( (1 + (y-1) * x) % 2 != 0  || (1 + (y-1) * x) <= y) {
+							if (state == true) {
+								state = false;
+								System.out.print("0" + "\t");
+							} else {
+								state = true;
+								System.out.print("1" + "\t");
+							}
+						} else {
+							if (state == false) {
+								System.out.print("0" + "\t");
+							} else {
+								System.out.print("1" + "\t");
+							}
+						}
+					}
+				}
+			}
+			System.out.println();
+			System.out.println();
+		}
+	}// end main
+}

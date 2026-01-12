@@ -1,0 +1,19 @@
+D:\C#程式\Addis 第二學期 程式設計 功課\TurtleWindowsFormsApp\TurtleWindowsFormsApp\bin\Debug\TurtleWindowsFormsApp.exe.config
+D:\C#程式\Addis 第二學期 程式設計 功課\TurtleWindowsFormsApp\TurtleWindowsFormsApp\bin\Debug\TurtleWindowsFormsApp.exe
+D:\C#程式\Addis 第二學期 程式設計 功課\TurtleWindowsFormsApp\TurtleWindowsFormsApp\bin\Debug\TurtleWindowsFormsApp.pdb
+D:\C#程式\Addis 第二學期 程式設計 功課\TurtleWindowsFormsApp\TurtleWindowsFormsApp\obj\Debug\TurtleWindowsFormsApp.csprojAssemblyReference.cache
+D:\C#程式\Addis 第二學期 程式設計 功課\TurtleWindowsFormsApp\TurtleWindowsFormsApp\obj\Debug\TurtleWindowsFormsApp.Properties.Resources.resources
+D:\C#程式\Addis 第二學期 程式設計 功課\TurtleWindowsFormsApp\TurtleWindowsFormsApp\obj\Debug\TurtleWindowsFormsApp.csproj.GenerateResource.cache
+D:\C#程式\Addis 第二學期 程式設計 功課\TurtleWindowsFormsApp\TurtleWindowsFormsApp\obj\Debug\TurtleWindowsFormsApp.exe
+D:\C#程式\Addis 第二學期 程式設計 功課\TurtleWindowsFormsApp\TurtleWindowsFormsApp\obj\Debug\TurtleWindowsFormsApp.pdb
+D:\C#程式\Addis 第二學期 程式設計 功課\TurtleWindowsFormsApp\TurtleWindowsFormsApp\obj\Debug\TurtleWindowsFormsApp.TurtleForm.resources
+D:\C#\C# Class\Addis 第二學期 程式設計 功課\TurtleWindowsFormsApp\TurtleWindowsFormsApp\bin\Debug\TurtleWindowsFormsApp.exe.config
+D:\C#\C# Class\Addis 第二學期 程式設計 功課\TurtleWindowsFormsApp\TurtleWindowsFormsApp\bin\Debug\TurtleWindowsFormsApp.exe
+D:\C#\C# Class\Addis 第二學期 程式設計 功課\TurtleWindowsFormsApp\TurtleWindowsFormsApp\bin\Debug\TurtleWindowsFormsApp.pdb
+D:\C#\C# Class\Addis 第二學期 程式設計 功課\TurtleWindowsFormsApp\TurtleWindowsFormsApp\obj\Debug\TurtleWindowsFormsApp.csproj.AssemblyReference.cache
+D:\C#\C# Class\Addis 第二學期 程式設計 功課\TurtleWindowsFormsApp\TurtleWindowsFormsApp\obj\Debug\TurtleWindowsFormsApp.TurtleForm.resources
+D:\C#\C# Class\Addis 第二學期 程式設計 功課\TurtleWindowsFormsApp\TurtleWindowsFormsApp\obj\Debug\TurtleWindowsFormsApp.Properties.Resources.resources
+D:\C#\C# Class\Addis 第二學期 程式設計 功課\TurtleWindowsFormsApp\TurtleWindowsFormsApp\obj\Debug\TurtleWindowsFormsApp.csproj.GenerateResource.cache
+D:\C#\C# Class\Addis 第二學期 程式設計 功課\TurtleWindowsFormsApp\TurtleWindowsFormsApp\obj\Debug\TurtleWindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\C#\C# Class\Addis 第二學期 程式設計 功課\TurtleWindowsFormsApp\TurtleWindowsFormsApp\obj\Debug\TurtleWindowsFormsApp.exe
+D:\C#\C# Class\Addis 第二學期 程式設計 功課\TurtleWindowsFormsApp\TurtleWindowsFormsApp\obj\Debug\TurtleWindowsFormsApp.pdb

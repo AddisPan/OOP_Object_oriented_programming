@@ -1,0 +1,6 @@
+D:\addis程式設計\成績等第ConsoleApplication1\ScoreLevelConsoleApplication1\bin\Debug\ScoreLevelConsoleApplication1.exe.config
+D:\addis程式設計\成績等第ConsoleApplication1\ScoreLevelConsoleApplication1\bin\Debug\ScoreLevelConsoleApplication1.exe
+D:\addis程式設計\成績等第ConsoleApplication1\ScoreLevelConsoleApplication1\bin\Debug\ScoreLevelConsoleApplication1.pdb
+D:\addis程式設計\成績等第ConsoleApplication1\ScoreLevelConsoleApplication1\obj\Debug\ScoreLevelConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\addis程式設計\成績等第ConsoleApplication1\ScoreLevelConsoleApplication1\obj\Debug\ScoreLevelConsoleApplication1.exe
+D:\addis程式設計\成績等第ConsoleApplication1\ScoreLevelConsoleApplication1\obj\Debug\ScoreLevelConsoleApplication1.pdb

@@ -1,0 +1,6 @@
+D:\程式 考試複習\ArmstrongNumerConsoleApp\ArmstrongNumerConsoleApp\obj\Debug\ArmstrongNumerConsoleApp.csprojAssemblyReference.cache
+D:\程式 考試複習\ArmstrongNumerConsoleApp\ArmstrongNumerConsoleApp\bin\Debug\ArmstrongNumerConsoleApp.exe.config
+D:\程式 考試複習\ArmstrongNumerConsoleApp\ArmstrongNumerConsoleApp\bin\Debug\ArmstrongNumerConsoleApp.exe
+D:\程式 考試複習\ArmstrongNumerConsoleApp\ArmstrongNumerConsoleApp\bin\Debug\ArmstrongNumerConsoleApp.pdb
+D:\程式 考試複習\ArmstrongNumerConsoleApp\ArmstrongNumerConsoleApp\obj\Debug\ArmstrongNumerConsoleApp.exe
+D:\程式 考試複習\ArmstrongNumerConsoleApp\ArmstrongNumerConsoleApp\obj\Debug\ArmstrongNumerConsoleApp.pdb

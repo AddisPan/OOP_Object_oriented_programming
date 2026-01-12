@@ -1,0 +1,17 @@
+C:\Users\A108222040\Desktop\2020 0303\fileIoConsoleApp\fileIoConsoleApp\bin\Debug\fileIoConsoleApp.exe.config
+C:\Users\A108222040\Desktop\2020 0303\fileIoConsoleApp\fileIoConsoleApp\bin\Debug\fileIoConsoleApp.exe
+C:\Users\A108222040\Desktop\2020 0303\fileIoConsoleApp\fileIoConsoleApp\bin\Debug\fileIoConsoleApp.pdb
+C:\Users\A108222040\Desktop\2020 0303\fileIoConsoleApp\fileIoConsoleApp\obj\Debug\fileIoConsoleApp.csprojAssemblyReference.cache
+C:\Users\A108222040\Desktop\2020 0303\fileIoConsoleApp\fileIoConsoleApp\obj\Debug\fileIoConsoleApp.Form1.resources
+C:\Users\A108222040\Desktop\2020 0303\fileIoConsoleApp\fileIoConsoleApp\obj\Debug\fileIoConsoleApp.csproj.GenerateResource.cache
+C:\Users\A108222040\Desktop\2020 0303\fileIoConsoleApp\fileIoConsoleApp\obj\Debug\fileIoConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\A108222040\Desktop\2020 0303\fileIoConsoleApp\fileIoConsoleApp\obj\Debug\fileIoConsoleApp.exe
+C:\Users\A108222040\Desktop\2020 0303\fileIoConsoleApp\fileIoConsoleApp\obj\Debug\fileIoConsoleApp.pdb
+D:\Addis 第二學期 程式設計 上課\2020 0303\fileIoConsoleApp\fileIoConsoleApp\bin\Debug\fileIoConsoleApp.exe.config
+D:\Addis 第二學期 程式設計 上課\2020 0303\fileIoConsoleApp\fileIoConsoleApp\bin\Debug\fileIoConsoleApp.exe
+D:\Addis 第二學期 程式設計 上課\2020 0303\fileIoConsoleApp\fileIoConsoleApp\bin\Debug\fileIoConsoleApp.pdb
+D:\Addis 第二學期 程式設計 上課\2020 0303\fileIoConsoleApp\fileIoConsoleApp\obj\Debug\fileIoConsoleApp.csprojAssemblyReference.cache
+D:\Addis 第二學期 程式設計 上課\2020 0303\fileIoConsoleApp\fileIoConsoleApp\obj\Debug\fileIoConsoleApp.Form1.resources
+D:\Addis 第二學期 程式設計 上課\2020 0303\fileIoConsoleApp\fileIoConsoleApp\obj\Debug\fileIoConsoleApp.csproj.GenerateResource.cache
+D:\Addis 第二學期 程式設計 上課\2020 0303\fileIoConsoleApp\fileIoConsoleApp\obj\Debug\fileIoConsoleApp.exe
+D:\Addis 第二學期 程式設計 上課\2020 0303\fileIoConsoleApp\fileIoConsoleApp\obj\Debug\fileIoConsoleApp.pdb

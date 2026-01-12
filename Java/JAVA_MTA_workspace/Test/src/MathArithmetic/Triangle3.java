@@ -1,0 +1,30 @@
+package MathArithmetic;
+
+import java.util.Scanner;
+
+public class Triangle3 {
+
+	public static void main(String[] args) {
+		String a = "";
+		Scanner input = new Scanner(System.in);
+
+		System.out.println("number of triangle:");
+		int n = input.nextInt();
+
+		for (int y = 1; y <= n; y++) {
+			
+			for (int x = n - 1; x >= y; x--) {
+				System.out.print(" ");
+			}
+			
+			for (int star = 1; star <= y; star++) {
+				if (star == 1 || star == y || y == n)
+					System.out.print("* ");
+				else
+					System.out.print("  ");
+			}
+			System.out.println("");
+		}
+	}
+
+}

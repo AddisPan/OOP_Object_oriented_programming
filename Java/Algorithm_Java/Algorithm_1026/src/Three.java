@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+public class Three {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+
+		System.out.print("num1:");
+		double n = input.nextDouble();
+		System.out.print(Three(n));
+	}
+
+	public static double Three(double n) {
+		double f, g;
+		if (n == 1)
+			return 1;
+		f = Math.pow(2, n/2);
+		g = Math.pow(n, n/2);
+		return f - g;
+	}
+}

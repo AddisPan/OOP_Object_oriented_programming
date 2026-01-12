@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class One {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+
+		System.out.print("num1:");
+		double n = input.nextDouble();
+		System.out.print(One(n));
+	}
+
+	public static double One(int n) {
+		double f;
+		if (n == 1)
+			return 1;
+		f = Math.pow(2, n/3);
+		return f;
+	}
+}

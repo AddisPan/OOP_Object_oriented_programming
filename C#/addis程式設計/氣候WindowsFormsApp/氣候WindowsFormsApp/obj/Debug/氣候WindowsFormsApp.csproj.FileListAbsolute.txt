@@ -1,0 +1,9 @@
+D:\addis程式設計\氣候WindowsFormsApp\氣候WindowsFormsApp\bin\Debug\氣候WindowsFormsApp.exe.config
+D:\addis程式設計\氣候WindowsFormsApp\氣候WindowsFormsApp\bin\Debug\氣候WindowsFormsApp.exe
+D:\addis程式設計\氣候WindowsFormsApp\氣候WindowsFormsApp\bin\Debug\氣候WindowsFormsApp.pdb
+D:\addis程式設計\氣候WindowsFormsApp\氣候WindowsFormsApp\obj\Debug\氣候WindowsFormsApp.csprojAssemblyReference.cache
+D:\addis程式設計\氣候WindowsFormsApp\氣候WindowsFormsApp\obj\Debug\氣候WindowsFormsApp.Form1.resources
+D:\addis程式設計\氣候WindowsFormsApp\氣候WindowsFormsApp\obj\Debug\氣候WindowsFormsApp.Properties.Resources.resources
+D:\addis程式設計\氣候WindowsFormsApp\氣候WindowsFormsApp\obj\Debug\氣候WindowsFormsApp.csproj.GenerateResource.cache
+D:\addis程式設計\氣候WindowsFormsApp\氣候WindowsFormsApp\obj\Debug\氣候WindowsFormsApp.exe
+D:\addis程式設計\氣候WindowsFormsApp\氣候WindowsFormsApp\obj\Debug\氣候WindowsFormsApp.pdb

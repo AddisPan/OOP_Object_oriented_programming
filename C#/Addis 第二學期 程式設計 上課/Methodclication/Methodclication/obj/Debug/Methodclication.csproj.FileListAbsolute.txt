@@ -1,0 +1,25 @@
+C:\11.26 C#\Methodclication\Methodclication\bin\Debug\Methodclication.exe.config
+C:\11.26 C#\Methodclication\Methodclication\bin\Debug\Methodclication.exe
+C:\11.26 C#\Methodclication\Methodclication\bin\Debug\Methodclication.pdb
+C:\11.26 C#\Methodclication\Methodclication\obj\Debug\Methodclication.csprojResolveAssemblyReference.cache
+C:\11.26 C#\Methodclication\Methodclication\obj\Debug\Methodclication.exe
+C:\11.26 C#\Methodclication\Methodclication\obj\Debug\Methodclication.pdb
+D:\11.26 C#\Methodclication\Methodclication\obj\Debug\Methodclication.csprojAssemblyReference.cache
+D:\11.26 C#\Methodclication\Methodclication\obj\Debug\Methodclication.csproj.CoreCompileInputs.cache
+D:\11.26 C#\Methodclication\Methodclication\obj\Debug\Methodclication.exe
+D:\11.26 C#\Methodclication\Methodclication\obj\Debug\Methodclication.pdb
+D:\11.26 C#\Methodclication\Methodclication\bin\Debug\Methodclication.exe.config
+D:\11.26 C#\Methodclication\Methodclication\bin\Debug\Methodclication.exe
+D:\11.26 C#\Methodclication\Methodclication\bin\Debug\Methodclication.pdb
+E:\11.26 C#\Methodclication\Methodclication\bin\Debug\Methodclication.exe.config
+E:\11.26 C#\Methodclication\Methodclication\bin\Debug\Methodclication.exe
+E:\11.26 C#\Methodclication\Methodclication\bin\Debug\Methodclication.pdb
+E:\11.26 C#\Methodclication\Methodclication\obj\Debug\Methodclication.csprojAssemblyReference.cache
+E:\11.26 C#\Methodclication\Methodclication\obj\Debug\Methodclication.exe
+E:\11.26 C#\Methodclication\Methodclication\obj\Debug\Methodclication.pdb
+C:\Users\Addis\Desktop\1126 C#\11.26 C#\Methodclication\Methodclication\bin\Debug\Methodclication.exe.config
+C:\Users\Addis\Desktop\1126 C#\11.26 C#\Methodclication\Methodclication\bin\Debug\Methodclication.exe
+C:\Users\Addis\Desktop\1126 C#\11.26 C#\Methodclication\Methodclication\bin\Debug\Methodclication.pdb
+C:\Users\Addis\Desktop\1126 C#\11.26 C#\Methodclication\Methodclication\obj\Debug\Methodclication.csprojAssemblyReference.cache
+C:\Users\Addis\Desktop\1126 C#\11.26 C#\Methodclication\Methodclication\obj\Debug\Methodclication.exe
+C:\Users\Addis\Desktop\1126 C#\11.26 C#\Methodclication\Methodclication\obj\Debug\Methodclication.pdb

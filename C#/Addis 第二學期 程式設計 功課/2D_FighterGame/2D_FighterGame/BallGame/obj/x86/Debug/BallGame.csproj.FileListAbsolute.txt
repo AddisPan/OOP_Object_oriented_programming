@@ -1,0 +1,10 @@
+D:\ccc\XNA\BallGame\BallGame\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ccc\XNA\BallGame\BallGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\ccc\XNA\BallGame\BallGame\bin\x86\Debug\Content\enemy.xnb
+D:\ccc\XNA\BallGame\BallGame\bin\x86\Debug\BallGame.exe
+D:\ccc\XNA\BallGame\BallGame\bin\x86\Debug\BallGame.pdb
+D:\ccc\XNA\BallGame\BallGame\obj\x86\Debug\BallGame.exe
+D:\ccc\XNA\BallGame\BallGame\obj\x86\Debug\BallGame.pdb
+D:\ccc\XNA\BallGame\BallGame\bin\x86\Debug\Content\player.xnb
+D:\ccc\XNA\BallGame\BallGame\bin\x86\Debug\Content\missile.xnb
+D:\ccc\XNA\BallGame\BallGame\bin\x86\Debug\Content\SpriteFont.xnb

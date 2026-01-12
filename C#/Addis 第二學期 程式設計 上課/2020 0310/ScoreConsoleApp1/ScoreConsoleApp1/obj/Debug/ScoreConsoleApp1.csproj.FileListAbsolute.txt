@@ -1,0 +1,13 @@
+C:\Users\A108222040\Desktop\0310\ScoreConsoleApp1\ScoreConsoleApp1\obj\Debug\ScoreConsoleApp1.csprojAssemblyReference.cache
+C:\Users\A108222040\Desktop\0310\ScoreConsoleApp1\ScoreConsoleApp1\obj\Debug\ScoreConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\A108222040\Desktop\0310\ScoreConsoleApp1\ScoreConsoleApp1\bin\Debug\ScoreConsoleApp1.exe.config
+C:\Users\A108222040\Desktop\0310\ScoreConsoleApp1\ScoreConsoleApp1\bin\Debug\ScoreConsoleApp1.exe
+C:\Users\A108222040\Desktop\0310\ScoreConsoleApp1\ScoreConsoleApp1\bin\Debug\ScoreConsoleApp1.pdb
+C:\Users\A108222040\Desktop\0310\ScoreConsoleApp1\ScoreConsoleApp1\obj\Debug\ScoreConsoleApp1.exe
+C:\Users\A108222040\Desktop\0310\ScoreConsoleApp1\ScoreConsoleApp1\obj\Debug\ScoreConsoleApp1.pdb
+D:\Addis 第二學期 程式設計 上課\2020 0310\ScoreConsoleApp1\ScoreConsoleApp1\bin\Debug\ScoreConsoleApp1.exe.config
+D:\Addis 第二學期 程式設計 上課\2020 0310\ScoreConsoleApp1\ScoreConsoleApp1\bin\Debug\ScoreConsoleApp1.exe
+D:\Addis 第二學期 程式設計 上課\2020 0310\ScoreConsoleApp1\ScoreConsoleApp1\bin\Debug\ScoreConsoleApp1.pdb
+D:\Addis 第二學期 程式設計 上課\2020 0310\ScoreConsoleApp1\ScoreConsoleApp1\obj\Debug\ScoreConsoleApp1.csprojAssemblyReference.cache
+D:\Addis 第二學期 程式設計 上課\2020 0310\ScoreConsoleApp1\ScoreConsoleApp1\obj\Debug\ScoreConsoleApp1.exe
+D:\Addis 第二學期 程式設計 上課\2020 0310\ScoreConsoleApp1\ScoreConsoleApp1\obj\Debug\ScoreConsoleApp1.pdb

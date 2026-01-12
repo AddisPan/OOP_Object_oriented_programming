@@ -1,0 +1,36 @@
+import java.util.Scanner;
+
+public class LockerDoors {
+	
+	
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		System.out.println("Please number¡G");
+		int n = input.nextInt();
+		int[] door = new int[n+1];
+		for (int i = 1; i <= n; i++) {
+			door[i] = checkEvenOdd(i);
+
+			if (door[i] == 1)
+				System.out.println("Door[" + i + "] : Close");
+			else
+				System.out.println("Door[" + i + "] : Open");
+		}
+
+	}
+
+	public static int checkEvenOdd(int a) {
+		int count = 0, k;
+		for (k = 2; k <= a; k++) {
+			if (a % k == 0)
+				count++;
+		}
+
+		if (count % 2 == 0)
+			return 2;
+
+		return 1;
+	}
+
+}

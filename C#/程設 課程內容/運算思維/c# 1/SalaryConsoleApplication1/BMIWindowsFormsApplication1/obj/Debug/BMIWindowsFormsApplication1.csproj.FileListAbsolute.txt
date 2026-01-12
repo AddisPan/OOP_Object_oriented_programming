@@ -1,0 +1,12 @@
+C:\c#\SalaryConsoleApplication1\BMIWindowsFormsApplication1\bin\Debug\BMIWindowsFormsApplication1.exe.config
+C:\c#\SalaryConsoleApplication1\BMIWindowsFormsApplication1\bin\Debug\BMIWindowsFormsApplication1.exe
+C:\c#\SalaryConsoleApplication1\BMIWindowsFormsApplication1\bin\Debug\BMIWindowsFormsApplication1.pdb
+C:\c#\SalaryConsoleApplication1\BMIWindowsFormsApplication1\obj\Debug\BMIWindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\c#\SalaryConsoleApplication1\BMIWindowsFormsApplication1\obj\Debug\BMIWindowsFormsApplication1.Form1.resources
+C:\c#\SalaryConsoleApplication1\BMIWindowsFormsApplication1\obj\Debug\BMIWindowsFormsApplication1.Properties.Resources.resources
+C:\c#\SalaryConsoleApplication1\BMIWindowsFormsApplication1\obj\Debug\BMIWindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\c#\SalaryConsoleApplication1\BMIWindowsFormsApplication1\obj\Debug\BMIWindowsFormsApplication1.exe
+C:\c#\SalaryConsoleApplication1\BMIWindowsFormsApplication1\obj\Debug\BMIWindowsFormsApplication1.pdb
+F:\c# 1\SalaryConsoleApplication1\BMIWindowsFormsApplication1\bin\Debug\BMIWindowsFormsApplication1.exe.config
+F:\c# 1\SalaryConsoleApplication1\BMIWindowsFormsApplication1\obj\Debug\BMIWindowsFormsApplication1.exe
+F:\c# 1\SalaryConsoleApplication1\BMIWindowsFormsApplication1\obj\Debug\BMIWindowsFormsApplication1.pdb

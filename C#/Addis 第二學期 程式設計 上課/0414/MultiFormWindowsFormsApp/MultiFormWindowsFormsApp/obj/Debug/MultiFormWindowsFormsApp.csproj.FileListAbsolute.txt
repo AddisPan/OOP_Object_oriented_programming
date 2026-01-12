@@ -1,0 +1,12 @@
+C:\Users\A108222040\Desktop\0414\MultiFormWindowsFormsApp\MultiFormWindowsFormsApp\bin\Debug\MultiFormWindowsFormsApp.exe.config
+C:\Users\A108222040\Desktop\0414\MultiFormWindowsFormsApp\MultiFormWindowsFormsApp\bin\Debug\MultiFormWindowsFormsApp.exe
+C:\Users\A108222040\Desktop\0414\MultiFormWindowsFormsApp\MultiFormWindowsFormsApp\bin\Debug\MultiFormWindowsFormsApp.pdb
+C:\Users\A108222040\Desktop\0414\MultiFormWindowsFormsApp\MultiFormWindowsFormsApp\obj\Debug\MultiFormWindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\A108222040\Desktop\0414\MultiFormWindowsFormsApp\MultiFormWindowsFormsApp\obj\Debug\MultiFormWindowsFormsApp.MainForm.resources
+C:\Users\A108222040\Desktop\0414\MultiFormWindowsFormsApp\MultiFormWindowsFormsApp\obj\Debug\MultiFormWindowsFormsApp.Properties.Resources.resources
+C:\Users\A108222040\Desktop\0414\MultiFormWindowsFormsApp\MultiFormWindowsFormsApp\obj\Debug\MultiFormWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\A108222040\Desktop\0414\MultiFormWindowsFormsApp\MultiFormWindowsFormsApp\obj\Debug\MultiFormWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\A108222040\Desktop\0414\MultiFormWindowsFormsApp\MultiFormWindowsFormsApp\obj\Debug\MultiFormWindowsFormsApp.exe
+C:\Users\A108222040\Desktop\0414\MultiFormWindowsFormsApp\MultiFormWindowsFormsApp\obj\Debug\MultiFormWindowsFormsApp.pdb
+C:\Users\A108222040\Desktop\0414\MultiFormWindowsFormsApp\MultiFormWindowsFormsApp\obj\Debug\MultiFormWindowsFormsApp.openFileForm.resources
+C:\Users\A108222040\Desktop\0414\MultiFormWindowsFormsApp\MultiFormWindowsFormsApp\obj\Debug\MultiFormWindowsFormsApp.saveFileForm.resources

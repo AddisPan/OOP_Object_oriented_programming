@@ -1,0 +1,10 @@
+D:\addis程式設計\加減乘除WindowsFormsApp2\加減乘除WindowsFormsApp2\obj\Debug\加減乘除WindowsFormsApp2.csprojAssemblyReference.cache
+D:\addis程式設計\加減乘除WindowsFormsApp2\加減乘除WindowsFormsApp2\obj\Debug\加減乘除WindowsFormsApp2.form1.resources
+D:\addis程式設計\加減乘除WindowsFormsApp2\加減乘除WindowsFormsApp2\obj\Debug\加減乘除WindowsFormsApp2.Properties.Resources.resources
+D:\addis程式設計\加減乘除WindowsFormsApp2\加減乘除WindowsFormsApp2\obj\Debug\加減乘除WindowsFormsApp2.csproj.GenerateResource.cache
+D:\addis程式設計\加減乘除WindowsFormsApp2\加減乘除WindowsFormsApp2\obj\Debug\加減乘除WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\addis程式設計\加減乘除WindowsFormsApp2\加減乘除WindowsFormsApp2\bin\Debug\加減乘除WindowsFormsApp2.exe.config
+D:\addis程式設計\加減乘除WindowsFormsApp2\加減乘除WindowsFormsApp2\bin\Debug\加減乘除WindowsFormsApp2.exe
+D:\addis程式設計\加減乘除WindowsFormsApp2\加減乘除WindowsFormsApp2\bin\Debug\加減乘除WindowsFormsApp2.pdb
+D:\addis程式設計\加減乘除WindowsFormsApp2\加減乘除WindowsFormsApp2\obj\Debug\加減乘除WindowsFormsApp2.exe
+D:\addis程式設計\加減乘除WindowsFormsApp2\加減乘除WindowsFormsApp2\obj\Debug\加減乘除WindowsFormsApp2.pdb

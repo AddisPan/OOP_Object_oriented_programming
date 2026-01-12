@@ -1,0 +1,13 @@
+C:\Users\A108222024\Desktop\A108222024\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\A108222024\Desktop\A108222024\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\A108222024\Desktop\A108222024\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\A108222024\Desktop\A108222024\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\A108222024\Desktop\A108222024\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\A108222024\Desktop\A108222024\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\A108222024\Desktop\A108222024\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\A108222024\Desktop\A108222024\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\A108222024\Desktop\A108222024\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\A108222024\Desktop\A108222024\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\A108222024\Desktop\A108222024\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.studentInformation_Form.resources
+C:\Users\A108222024\Desktop\A108222024\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.backery.resources
+C:\Users\A108222024\Desktop\A108222024\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.funGame.resources

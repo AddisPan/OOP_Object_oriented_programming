@@ -1,0 +1,42 @@
+import java.util.Map;
+import java.util.HashMap;
+
+public class LockerDoors {
+	static Map<Integer,Integer> lockers = new HashMap<Integer,Integer>();
+	
+	public static void lockers(int n){
+		for(int i = 1; i <= n; i++){			
+			toggleLocker(i);
+		}
+	}
+	public static void fillLockers(int n){
+		for( int i=1; i<=n; i++ ){
+			lockers.put(i, 1); // All closed (changed to open), it doesn't make sense since FIRST student will open all when passes
+		}
+	}
+	private static void toggleLocker(int student){		
+		int currentLocker = student;
+		int counter = 1;
+		while( currentLocker <= lockers.size() ){
+			counter++;
+			currentLocker = student * counter;
+			if( currentLocker > lockers.size() ) break;
+			int toggle = lockers.get(currentLocker);
+			if( toggle==0 ){
+				lockers.put(currentLocker, 1);
+			} else {
+				lockers.put(currentLocker, 0);
+			}
+		}
+	}
+	private static void showLockers(){
+		for(int lockerId : lockers.keySet() ){
+			System.out.println("LockerID->" + lockerId + ",value->" + lockers.get(lockerId) );
+		}
+	}
+	public static void main(String[] args) {
+		fillLockers(36);
+		lockers(36);		
+		showLockers();
+	}
+}

@@ -1,0 +1,31 @@
+
+public class LockerDoors {
+
+	public static void main(String[] args) {
+		boolean state[] = new boolean[101];
+
+		for (int i = 1; i < state.length; i++) {
+
+			for (int j = i; j < state.length; j++) {
+
+				if ((j) % (i) == 0) {
+
+					state[j] = !state[j];
+
+				}
+
+			}
+
+			// Display open lockers
+
+			if (state[i] = true) {
+
+				System.out.println("L" + i + " is open.");
+
+			}
+
+		}
+
+	}
+
+}

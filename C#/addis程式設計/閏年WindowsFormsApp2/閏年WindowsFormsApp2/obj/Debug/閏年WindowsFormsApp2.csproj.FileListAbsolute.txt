@@ -1,0 +1,9 @@
+D:\addis程式設計\閏年WindowsFormsApp2\閏年WindowsFormsApp2\obj\Debug\閏年WindowsFormsApp2.csprojAssemblyReference.cache
+D:\addis程式設計\閏年WindowsFormsApp2\閏年WindowsFormsApp2\obj\Debug\閏年WindowsFormsApp2.Form1.resources
+D:\addis程式設計\閏年WindowsFormsApp2\閏年WindowsFormsApp2\obj\Debug\閏年WindowsFormsApp2.Properties.Resources.resources
+D:\addis程式設計\閏年WindowsFormsApp2\閏年WindowsFormsApp2\obj\Debug\閏年WindowsFormsApp2.csproj.GenerateResource.cache
+D:\addis程式設計\閏年WindowsFormsApp2\閏年WindowsFormsApp2\bin\Debug\閏年WindowsFormsApp2.exe.config
+D:\addis程式設計\閏年WindowsFormsApp2\閏年WindowsFormsApp2\bin\Debug\閏年WindowsFormsApp2.exe
+D:\addis程式設計\閏年WindowsFormsApp2\閏年WindowsFormsApp2\bin\Debug\閏年WindowsFormsApp2.pdb
+D:\addis程式設計\閏年WindowsFormsApp2\閏年WindowsFormsApp2\obj\Debug\閏年WindowsFormsApp2.exe
+D:\addis程式設計\閏年WindowsFormsApp2\閏年WindowsFormsApp2\obj\Debug\閏年WindowsFormsApp2.pdb

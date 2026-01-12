@@ -1,0 +1,6 @@
+C:\c#\SalaryConsoleApplication1\SalaryConsoleApplication1\bin\Debug\SalaryConsoleApplication1.exe.config
+C:\c#\SalaryConsoleApplication1\SalaryConsoleApplication1\bin\Debug\SalaryConsoleApplication1.exe
+C:\c#\SalaryConsoleApplication1\SalaryConsoleApplication1\bin\Debug\SalaryConsoleApplication1.pdb
+C:\c#\SalaryConsoleApplication1\SalaryConsoleApplication1\obj\Debug\SalaryConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\c#\SalaryConsoleApplication1\SalaryConsoleApplication1\obj\Debug\SalaryConsoleApplication1.exe
+C:\c#\SalaryConsoleApplication1\SalaryConsoleApplication1\obj\Debug\SalaryConsoleApplication1.pdb

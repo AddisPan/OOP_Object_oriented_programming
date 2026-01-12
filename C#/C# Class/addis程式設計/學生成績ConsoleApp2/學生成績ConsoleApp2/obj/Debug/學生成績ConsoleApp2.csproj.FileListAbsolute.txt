@@ -1,0 +1,6 @@
+D:\addis程式設計\學生成績ConsoleApp2\學生成績ConsoleApp2\obj\Debug\學生成績ConsoleApp2.csprojAssemblyReference.cache
+D:\addis程式設計\學生成績ConsoleApp2\學生成績ConsoleApp2\bin\Debug\學生成績ConsoleApp2.exe.config
+D:\addis程式設計\學生成績ConsoleApp2\學生成績ConsoleApp2\bin\Debug\學生成績ConsoleApp2.exe
+D:\addis程式設計\學生成績ConsoleApp2\學生成績ConsoleApp2\bin\Debug\學生成績ConsoleApp2.pdb
+D:\addis程式設計\學生成績ConsoleApp2\學生成績ConsoleApp2\obj\Debug\學生成績ConsoleApp2.exe
+D:\addis程式設計\學生成績ConsoleApp2\學生成績ConsoleApp2\obj\Debug\學生成績ConsoleApp2.pdb

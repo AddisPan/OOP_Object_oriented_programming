@@ -1,0 +1,1 @@
+D:\ccc\XNA\BallGame\BallGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache

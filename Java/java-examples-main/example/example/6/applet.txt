@@ -1,0 +1,20 @@
+import javax.swing.*;
+public class MyApplet extends JApplet {
+  public MyApplet(){
+  	//當瀏覽器將applet初始化載入或重新載
+  	//入時,這無參數建構子就會被瀏覽器呼叫.
+  }
+  public void init() {
+  	//當applet被載入時,init()函數就會被瀏覽器呼叫     
+  }
+  public void start(){
+  	//在init()函數之後,start()函數就會被瀏覽器呼叫	
+  }
+  public void stop(){
+	//當離開applet網頁時,stop()函數就會被瀏覽器呼叫
+  }
+  public void destroy(){
+  	//當關閉瀏覽器時,destroy()函數就會被瀏覽器呼叫	
+  }
+}
+

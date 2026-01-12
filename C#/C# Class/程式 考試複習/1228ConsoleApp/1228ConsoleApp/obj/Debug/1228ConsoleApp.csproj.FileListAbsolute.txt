@@ -1,0 +1,6 @@
+D:\程式 考試複習\1228ConsoleApp\1228ConsoleApp\bin\Debug\1228ConsoleApp.exe.config
+D:\程式 考試複習\1228ConsoleApp\1228ConsoleApp\bin\Debug\1228ConsoleApp.exe
+D:\程式 考試複習\1228ConsoleApp\1228ConsoleApp\bin\Debug\1228ConsoleApp.pdb
+D:\程式 考試複習\1228ConsoleApp\1228ConsoleApp\obj\Debug\1228ConsoleApp.csprojAssemblyReference.cache
+D:\程式 考試複習\1228ConsoleApp\1228ConsoleApp\obj\Debug\1228ConsoleApp.exe
+D:\程式 考試複習\1228ConsoleApp\1228ConsoleApp\obj\Debug\1228ConsoleApp.pdb

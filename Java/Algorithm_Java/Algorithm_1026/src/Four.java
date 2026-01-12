@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+public class Four {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+
+		System.out.print("num1:");
+		double n = input.nextDouble();
+		System.out.print(Four(n));
+	}
+
+	public static double Four(double n) {
+		double f, g;
+		if (n == 1)
+			return 1;
+		f = Math.pow(n, 1/2);
+		g = Math.pow(2, f);
+		return g;
+	}
+}

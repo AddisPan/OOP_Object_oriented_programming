@@ -1,0 +1,12 @@
+C:\Users\m306\Desktop\C# 123\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\m306\Desktop\C# 123\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\m306\Desktop\C# 123\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\m306\Desktop\C# 123\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\m306\Desktop\C# 123\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\m306\Desktop\C# 123\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Addis\Desktop\C# 1126\C# 123\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Addis\Desktop\C# 1126\C# 123\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Addis\Desktop\C# 1126\C# 123\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Addis\Desktop\C# 1126\C# 123\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\Addis\Desktop\C# 1126\C# 123\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Addis\Desktop\C# 1126\C# 123\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

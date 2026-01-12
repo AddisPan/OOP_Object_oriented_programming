@@ -1,0 +1,32 @@
+import java.util.Scanner;
+
+public class LokcerDoor {
+	public static void main(String[] args) {
+		int n, i = 1, j = 1, state = 0; // 0->close 1-> open
+		Scanner input = new Scanner(System.in);
+		System.out.println("Please number¡G");
+		n = input.nextInt();
+
+		for (int x = 0; x <= n; x++) {
+			for (i = 1; i <= n; i++) {
+				System.out.print(i + "\t");
+			}
+			System.out.println();
+			while (j <= n) {
+				for (j = 0; j < n; j++) {
+					System.out.print(state + "\t");
+				}
+				for (int y = 1; y <= n; y++) {
+					if (state == 0) {
+						state = 1;
+						System.out.print(state + "\t");
+					} else {
+						state = 0;
+						System.out.print(state + "\t");
+					}
+				}
+			}
+			System.out.println();
+		}
+	}// end main
+}

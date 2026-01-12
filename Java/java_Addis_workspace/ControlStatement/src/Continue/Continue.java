@@ -1,0 +1,18 @@
+package Continue;
+
+public class Continue{
+	public static void main(String[] args){
+		int i=0;
+		outer:
+		while(i++<2){
+			System.out.println("外面");
+			while(true){
+				System.out.println("中間");
+				while(true){
+					System.out.println("裡面");
+					continue outer;
+				}
+			}
+		}
+	}
+}

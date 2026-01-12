@@ -1,0 +1,7 @@
+D:\程設 課程內容\averageWindowsFormsApplication1\averageConsoleApplication1\bin\Debug\averageConsoleApplication1.exe.config
+D:\程設 課程內容\averageWindowsFormsApplication1\averageConsoleApplication1\bin\Debug\averageConsoleApplication1.exe
+D:\程設 課程內容\averageWindowsFormsApplication1\averageConsoleApplication1\bin\Debug\averageConsoleApplication1.pdb
+D:\程設 課程內容\averageWindowsFormsApplication1\averageConsoleApplication1\obj\Debug\averageConsoleApplication1.exe
+D:\程設 課程內容\averageWindowsFormsApplication1\averageConsoleApplication1\obj\Debug\averageConsoleApplication1.pdb
+D:\程設 課程內容\averageWindowsFormsApplication1\averageConsoleApplication1\obj\Debug\averageConsoleApplication1.csprojAssemblyReference.cache
+D:\程設 課程內容\averageWindowsFormsApplication1\averageConsoleApplication1\obj\Debug\averageConsoleApplication1.csproj.CoreCompileInputs.cache
