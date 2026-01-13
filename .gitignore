@@ -1,0 +1,13 @@
+# 忽略編譯後的 class 檔案
+*.class
+
+# 忽略執行檔
+*.jar
+*.war
+
+# 忽略 Eclipse/IDE 設定檔 (看你想不想留，通常建議忽略)
+.metadata
+.classpath
+.project
+.settings/
+bin/

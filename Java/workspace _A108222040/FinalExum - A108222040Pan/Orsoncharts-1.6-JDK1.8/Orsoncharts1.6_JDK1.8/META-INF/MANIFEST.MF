@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: com.orsoncharts.demo.fx.OrsonChartsFXDemo
+Class-Path: . Orsoncharts1.6_JDK1.8_lib/fxgraphics2d-1.5.jar Orsoncharts
+ 1.6_JDK1.8_lib/hamcrest-core-1.3.jar Orsoncharts1.6_JDK1.8_lib/jfreesvg
+ -3.2.jar Orsoncharts1.6_JDK1.8_lib/junit-4.11.jar Orsoncharts1.6_JDK1.8
+ _lib/orsoncharts-1.6.jar Orsoncharts1.6_JDK1.8_lib/orsonpdf-1.7.jar
+

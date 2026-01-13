@@ -1,0 +1,2 @@
+rem C:\Program Files\Java\jdk1.8.0_261\bin\java -cp Orsoncharts1.6_JDK1.8.jar com.orsoncharts.demo.fx.PieChart3DFXDemo2 -Djava.ext.dirs=lib -Djava.library.path=lib
+java -cp Orsoncharts1.6_JDK1.8.jar com.orsoncharts.demo.fx.PieChart3DFXDemo2 -Djava.ext.dirs=lib -Djava.library.path=lib

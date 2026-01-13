@@ -1,0 +1,1 @@
+java -cp Orsoncharts1.6_JDK1.8.jar com.orsoncharts.demo.fx.PieChart3DFXDemo3_Modified_Pan2040 -Djava.ext.dirs=lib -Djava.library.path=lib

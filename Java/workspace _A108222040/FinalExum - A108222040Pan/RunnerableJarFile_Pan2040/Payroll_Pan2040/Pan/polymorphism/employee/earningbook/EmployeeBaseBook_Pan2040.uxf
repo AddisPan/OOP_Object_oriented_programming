@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>10</x>
+      <y>10</y>
+      <w>1670</w>
+      <h>530</h>
+    </coordinates>
+    <panel_attributes>Pan.polymorphism.employee.earningbook::EmployeeBaseBook_Pan2040
+--
+-twoDigits = new DecimalFormat("0.00"): DecimalFormat
++finalReport4WageBook = "": String
++header4WageBook = "\r\n\t@________________________________________________________@\n\n" + "\r\n\t\t                Wage-Book Report for the Company         \n\n" + "\r\n\t@________________________________________________________@\n": String
++formatTitleConsole = "": String
++formatTitleGUI = "": String
++recordsConcatenated = "": String
++employeeCounter = 0: int
++total = 0.0, highestE = Double.MIN_VALUE, lowestE = Double.MAX_VALUE, mean = 0.0: double
++nameLowest, nameHighest: String
++SSNlowest = "", SSNhighest = "": String
++aLevel = 0, bLevel = 0, cLevel = 0: int
++levelsS = { EarningLevelEnum_Pan2040.LevelA.getLevelType(), EarningLevelEnum_Pan2040.LevelB.getLevelType(), EarningLevelEnum_Pan2040.LevelC.getLevelType() }: String[]
++levelsv = new double[levelsS.length]: double[]
++indexColor = EarningLevelEnum_Pan2040.LevelA.getColor(): Color
++unitNT = 1000: double
++CompanyName: String
++EmployeeNo: int
++LevelLetter: String
++isGUI: boolean
+--
++EmployeeBaseBook_Pan2040(String _companyName, int _employeeNo, boolean _isGUI): ctor
++processEverySalaryProfile(Employee record): void
++calculateTotal(double _everyEarnings): void
++findHighest(Employee record): void
++findLowest(Employee record): void
++incrementLetterGradeLevelCounter(double wage): String
++calculateAverageNproduceLevelArray(): void
++produceLevelArray(): void
++toString(): String
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

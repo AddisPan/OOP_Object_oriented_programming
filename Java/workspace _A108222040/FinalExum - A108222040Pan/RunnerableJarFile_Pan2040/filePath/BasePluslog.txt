@@ -1,0 +1,25 @@
+
+	@________________________________________________________@
+
+
+		                Wage-Book Report for the Company         
+
+
+	@________________________________________________________@
+
+Company: Pan
+Employ No:   3	
+
+	@________________________________________________________@
+
+
+Salary average for this week: 433.33
+Lowest Salary: 50.00	Name: B Y
+Highest Salary: 1200.00	NameA S
+
+No. of employees who earned in each level:
+
+	A:   0
+	B:   0
+	C:   3
+

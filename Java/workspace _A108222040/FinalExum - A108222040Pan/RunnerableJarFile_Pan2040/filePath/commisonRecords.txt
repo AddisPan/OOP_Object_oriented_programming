@@ -1,0 +1,13 @@
+Company	a
+EmployeeNo	3
+C-Employee	                 a	              z	             a1	      600000.00	           0.90	      540000.00
+C-Employee	                 x	              z	             a2	         600.00	           0.40	         240.00
+C-Employee	                 V	              x	             a3	          60.00	           0.10	           6.00
+Highest Salary: 540000.00	Namea z
+
+No. of employees who earned in each level:
+
+	A:   1
+	B:   0
+	C:   2
+

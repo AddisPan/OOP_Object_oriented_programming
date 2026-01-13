@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: Pan.polymorphism.employee.JF4PayrollSystem_Simple
+Class-Path: . Payroll_Pan2040_lib/fxgraphics2d-1.5.jar Payroll_Pan2040_l
+ ib/hamcrest-core-1.3.jar Payroll_Pan2040_lib/jfreesvg-3.2.jar Payroll_P
+ an2040_lib/junit-4.11.jar Payroll_Pan2040_lib/orsoncharts-1.6.jar Payro
+ ll_Pan2040_lib/orsonpdf-1.7.jar
+
